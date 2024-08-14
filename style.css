@@ -81,12 +81,14 @@ a {
   background-color: white;
 }
 .visual_main .swiper .swiper-button-prev {
-  top: 870px;
+  position: absolute;
+  top: 94%;
   left: 740px;
   color: #002053;
 }
 .visual_main .swiper .swiper-button-next {
-  top: 870px;
+  position: absolute;
+  top: 94%;
   left: 790px;
   color: #002053;
 }

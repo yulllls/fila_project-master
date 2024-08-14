@@ -95,14 +95,16 @@ a {
     }
 
     .swiper-button-prev {
-      top: 870px;
-      left: 740px;
+      position: absolute;
+  top: 94%;
+  left: 740px;
       color: #002053;
     }
 
     .swiper-button-next {
-      top: 870px;
-      left: 790px;
+      position: absolute;
+  top: 94%;
+  left: 790px;
       color: #002053;
     }
   }
