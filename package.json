@@ -1,0 +1,22 @@
+{
+  "name": "fila",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "sass": "node-sass ./서브페이지1/style.scss ./서브페이지1/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.63.4",
+    "sass-loader": "^13.2.2"
+  },
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
